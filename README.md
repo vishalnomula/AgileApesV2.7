@@ -39,7 +39,7 @@ To allow any Facebook user to login through Agile Apes, a privacy policy must be
 available to the general public.
 This was deemed impractical as the app is currently still in development and thus a dummy Facebook account with login
 credentials was created to allow for testing of the API. The credentials are as follows:
-Email: harry_fdfhcam_schrocksky@ftbnw.net,
+Email: harry_fdfhcam_schrocksky@tfbnw.net,
 Password: testuser1
 
 ## Authors:
